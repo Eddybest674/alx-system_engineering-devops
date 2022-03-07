@@ -1,2 +1,3 @@
 #!/bin/bash
 cat /etc/passwd /etc/hosts
+tail -10 3-twofiles
